@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a72ba52f-9515-4ec5-a191-3dccc95d6972": {
+      "ProjectGuid": "a72ba52f-9515-4ec5-a191-3dccc95d6972",
+      "DisplayName": "GrpcService1",
+      "ColorIndex": 0
+    },
+    "7af68738-82ba-431b-a610-64c48dcb08d8": {
+      "ProjectGuid": "7af68738-82ba-431b-a610-64c48dcb08d8",
+      "DisplayName": "Client",
+      "ColorIndex": 1
+    },
+    "ffe9a260-79c4-4334-8c1c-9cde59fde12e": {
+      "ProjectGuid": "ffe9a260-79c4-4334-8c1c-9cde59fde12e",
+      "DisplayName": "GrpcClient",
+      "ColorIndex": 2
+    },
+    "ee9db2fe-b3bf-4638-b0e8-1e33be131c6d": {
+      "ProjectGuid": "ee9db2fe-b3bf-4638-b0e8-1e33be131c6d",
+      "DisplayName": "GRPC Client",
+      "ColorIndex": 3
+    },
+    "cfb5bd5b-496f-4e06-a3d1-f79e84c401dc": {
+      "ProjectGuid": "cfb5bd5b-496f-4e06-a3d1-f79e84c401dc",
+      "DisplayName": "grpcClientApp",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}
